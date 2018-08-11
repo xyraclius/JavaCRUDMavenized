@@ -5,10 +5,10 @@ import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+
 import com.nabil.model.UserModel;
 
 /**
- *
  * @author Nabil Fawwaz Elqayyim
  */
 public class UserController extends HttpServlet {

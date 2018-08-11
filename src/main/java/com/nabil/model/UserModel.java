@@ -1,13 +1,13 @@
 package com.nabil.model;
 
 import com.nabil.connection.Database;
+
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
 /**
- *
  * @author Nabil Fawwaz Elqayyim
  */
 public class UserModel {
